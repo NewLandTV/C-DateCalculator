@@ -4,6 +4,8 @@ C언어로 만든 날짜 계산 프로그램입니다.
 
 [![Development Note p.59](https://img.youtube.com/vi/FGOLw0yF0iw/0.jpg)](https://www.youtube.com/watch?v=FGOLw0yF0iw)
 
+[![Development Note p.159](https://img.youtube.com/vi/u-ZJvQb97sQ/0.jpg)](https://www.youtube.com/watch?v=u-ZJvQb97sQ)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
